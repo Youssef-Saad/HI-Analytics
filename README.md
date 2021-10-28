@@ -1,3 +1,3 @@
 # HI-Analytics
-HI is a Platform for re-hiring talented employees between companies before letting them off from the company and offer a lot of HR analytics.
-we used data set form Kaggle (https://www.kaggle.com/jacksonchou/hr-data-for-analytics). This is dataset is for HR analytics, the user who previously submitted this deleted the public dataset. The dataset contains employee profiles of a large company, where each record is an employee.
+I exmained data set form Kaggle (https://www.kaggle.com/jacksonchou/hr-data-for-analytics). This is dataset is for HR analytics, the user who previously submitted this deleted the public dataset. The dataset contains employee profiles of a large company, where each record is an employee . i analyzed the data and did Visualization Summary and discovered that most important factor for any employee to stay or leave is promotion, satisfaction and performance in the company. so we use k-means algo to cluster them. Then i bulit the model
+to predict employee churn prediction model using Gradient Boosting Classifier.
